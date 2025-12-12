@@ -1,8 +1,3 @@
-```markdown
----
-layout: null
----
-
 # Privacy Policy — SpikeX
 
 Last updated: YYYY-MM-DD
