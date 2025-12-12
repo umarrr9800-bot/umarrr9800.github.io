@@ -1,3 +1,8 @@
+```markdown
+---
+layout: null
+---
+
 # Privacy Policy — SpikeX
 
 Last updated: YYYY-MM-DD
@@ -37,3 +42,4 @@ If you have questions about this Privacy Policy or want to request data deletion
 
 10. Changes
 We may update this policy from time to time. The "Last updated" date will be modified and the updated policy will be published at the same URL.
+```
